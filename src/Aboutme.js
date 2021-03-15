@@ -1,6 +1,5 @@
-import React, {useState} from 'react';
-import {StyleSheet, View, Text, Switch} from 'react-native';
-import {Thumbnail} from 'native-base';
+import React from 'react';
+import {StyleSheet, View, Text} from 'react-native';
 
 function Aboutme() {
   return (

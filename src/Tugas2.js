@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import {StyleSheet, View, Text, Switch} from 'react-native';
+import { View, Text, Switch} from 'react-native';
 
 function Tugas2() {
   const [darkmode, setDarkmode] = useState(false);
